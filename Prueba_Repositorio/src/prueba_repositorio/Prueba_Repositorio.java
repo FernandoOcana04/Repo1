@@ -29,6 +29,9 @@ public class Prueba_Repositorio {
         
         resta = num1 - num2;
         System.out.println("La resta es: " + resta);
+        
+        multiplicacion = num1 * num2;
+        System.out.println("La multiplicacion es: " + multiplicacion);
     }
     
 }
