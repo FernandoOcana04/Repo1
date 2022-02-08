@@ -32,6 +32,9 @@ public class Prueba_Repositorio {
         
         multiplicacion = num1 * num2;
         System.out.println("La multiplicacion es: " + multiplicacion);
+        
+        division = num1 / num2;
+        System.out.println("La división es: " + division);
     }
     
 }
