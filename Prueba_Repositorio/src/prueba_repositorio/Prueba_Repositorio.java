@@ -26,6 +26,9 @@ public class Prueba_Repositorio {
         
         suma = num1 + num2;
         System.out.println("La suma es: " + suma);
+        
+        resta = num1 - num2;
+        System.out.println("La resta es: " + resta);
     }
     
 }
